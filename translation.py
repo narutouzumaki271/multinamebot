@@ -12,8 +12,8 @@ class Translation( object ):
     START_TEXT = "Hello.. <b>{}</b>\n\n<b>Myself:</b> {}\n\n<b>I can do a lot of things with your files</b>\n\n" \
                  "<i>Send filename + extension (Eg: terminator.mkv) as a reply to any telegram media, and follow " \
                  "Bot's instructions.</i>\n\n" \
-                 "<b>My Owner Is </b><a href='https://t.me/Space4AFML'>                HERE</a>\n" \
-                 "<b>My Bots Channel Can See: </b><a href='https://t.me/XRoiD_BotZ'> HERE</a>\n\n" \
+                 "<b>My Owner Is </b><a href='https://www.youtube.com/watch?v=kZoWEC2ywm4'>                HERE</a>\n" \
+                 "<b>My Bots Channel Can See: </b><a href='https://www.youtube.com/watch?v=kZoWEC2ywm4'> HERE</a>\n\n" \
                  "<i> Have a nice day</i> 😍"
     SETTINGS_TEXT = "<b>These are my available options:</b>"
     THUMB_CAPTION = "<code>This image is your current thumbnail, Tap</code><b> DEL THUMB </b><code>if you wish to " \
